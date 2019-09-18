@@ -1,7 +1,7 @@
 # FreshDetect
-# Devpost : https://devpost.com/software/fresh-detect
+#### Devpost : https://devpost.com/software/fresh-detect
 
-# Won IBM's Disaster Relief Project for HackMIT 2019.
+### Won IBM's Disaster Relief Project for HackMIT 2019.
 
 ## Built With
 
