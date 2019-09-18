@@ -2,6 +2,11 @@ from watson_developer_cloud import VisualRecognitionV3
 import json
 import numpy as np
 
+### This program predicts how fresh a produce is based on it's Temperature, Humidity, and VOC readongs. It also takes an image to detect other
+### metrics such as appearence and Fe2O3 presense based on appearence.
+
+### Author : Qasim Wani
+
 
 # temp_avg = 20
 # humidity_avg = 0.93
